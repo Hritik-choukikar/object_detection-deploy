@@ -54,7 +54,7 @@ COCO17_HUMAN_POSE_KEYPOINTS = [(0, 1),
 def image(img):
 
   img=np.expand_dims(img,axis=0)
-  retrun img 
+  return img 
 
 
 
